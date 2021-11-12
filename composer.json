@@ -1,5 +1,5 @@
 {
-    "name": "flowwow/cloudpayments-php-client",
+    "name": "softinvest/cloudpayments-php-client",
     "description": "cloudpayments api client",
     "license": "MIT",
     "authors": [
