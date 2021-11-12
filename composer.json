@@ -6,6 +6,10 @@
         {
             "name": "Maksim Khramov",
             "email": "maxim.khramov@mail.ru"
+        },
+        {
+            "name": "softinvest",
+            "email": "gbe@tuta.io"
         }
     ],
     "keywords": [
@@ -13,8 +17,8 @@
         "cloudpayments"
     ],
     "require": {
-        "php": ">=7.4",
-        "guzzlehttp/guzzle": "~6.3",
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": ">=7.0.0",
         "myclabs/php-enum": "1.6"
     },
     "require-dev": {
