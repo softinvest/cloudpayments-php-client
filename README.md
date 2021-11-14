@@ -1,4 +1,4 @@
-# Cloudpayments api Library
+# Cloudpayments api Library (for php8)
 
 ## Оглавление
 
