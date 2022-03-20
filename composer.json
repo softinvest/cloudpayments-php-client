@@ -1,6 +1,6 @@
 {
     "name": "softinvest/cloudpayments-php-client",
-    "description": "cloudpayments api client",
+    "description": "cloudpayments api client, php8 support",
     "license": "MIT",
     "authors": [
         {
